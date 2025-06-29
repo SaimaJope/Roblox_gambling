@@ -107,8 +107,8 @@ document.addEventListener('DOMContentLoaded', () => {
             render: {
                 sprite: {
                     texture: './robux.svg',
-                    xScale: 0.67,
-                    yScale: 0.67
+                    xScale: 0.27,
+                    yScale: 0.27
                 }
             },
         });
